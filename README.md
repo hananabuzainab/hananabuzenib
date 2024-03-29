@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm 7anan</h1>
 <h3 align="center">A 3rd year computer engineering student from Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hananabuzenib&label=Profile%20views&color=0e75b6&style=flat" alt="hananabuzenib" /> </p>
 
 
 <p align="left">
